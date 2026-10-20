@@ -10,4 +10,9 @@ belajar kelas memulai pemogaraman dengan javascript dan juga belajar caara mengg
 **21 Oktober 2026**
 
 * Nambah juga cara mengetik menggunakan sepuluh jari tanpa melihat ke keyboard   
-* Lanjut menyelesaikan beberapa submission asah sebagai syarat kelulusan capstone  
+* Lanjut menyelesaikan beberapa submission asah sebagai syarat kelulusan capstone
+
+**22 Oktober 2026**
+* lanjut lagi belajar beberapa tanggungan kelas yang belom selesai
+* melanjutkan projek skripsi
+* bantu2 tugas magang yang entah sampai kapan
